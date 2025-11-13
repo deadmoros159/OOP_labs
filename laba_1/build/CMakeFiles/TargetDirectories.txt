@@ -1,0 +1,4 @@
+/home/hoodrich/oop/laba_1/build/CMakeFiles/main_app.dir
+/home/hoodrich/oop/laba_1/build/CMakeFiles/run_tests.dir
+/home/hoodrich/oop/laba_1/build/CMakeFiles/edit_cache.dir
+/home/hoodrich/oop/laba_1/build/CMakeFiles/rebuild_cache.dir

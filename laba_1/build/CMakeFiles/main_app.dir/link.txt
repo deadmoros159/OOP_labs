@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main_app.dir/test.c++.o CMakeFiles/main_app.dir/func_test.c++.o -o main_app 

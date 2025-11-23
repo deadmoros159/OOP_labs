@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/FiveTest.dir/test_five.c++.o -o FiveTest  /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a libFiveLib.a -lpthread /usr/lib/x86_64-linux-gnu/libgtest.a 

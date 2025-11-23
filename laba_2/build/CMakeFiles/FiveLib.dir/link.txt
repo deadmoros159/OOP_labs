@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFiveLib.a CMakeFiles/FiveLib.dir/Five.c++.o
+/usr/bin/ranlib libFiveLib.a

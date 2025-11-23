@@ -1,0 +1,4 @@
+/home/hoodrich/oop/laba_2/build/CMakeFiles/FiveLib.dir
+/home/hoodrich/oop/laba_2/build/CMakeFiles/FiveTest.dir
+/home/hoodrich/oop/laba_2/build/CMakeFiles/edit_cache.dir
+/home/hoodrich/oop/laba_2/build/CMakeFiles/rebuild_cache.dir

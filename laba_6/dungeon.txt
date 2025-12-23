@@ -1,0 +1,7 @@
+Dragon SIGMA 499 499
+Dragon Smaug 100 200
+Toad GiantToad 150 180
+Knight Arthur 120 210
+Dragon FireBreath 300 400
+Toad PoisonFrog 250 350
+Knight Lancelot 280 380

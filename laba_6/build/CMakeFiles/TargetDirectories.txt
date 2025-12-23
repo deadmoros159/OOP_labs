@@ -1,0 +1,4 @@
+/home/hoodrich/oop/laba_6/build/CMakeFiles/dungeon_editor.dir
+/home/hoodrich/oop/laba_6/build/CMakeFiles/dungeon_tests.dir
+/home/hoodrich/oop/laba_6/build/CMakeFiles/edit_cache.dir
+/home/hoodrich/oop/laba_6/build/CMakeFiles/rebuild_cache.dir

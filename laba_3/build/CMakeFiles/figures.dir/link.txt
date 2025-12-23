@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/figures.dir/main.cpp.o CMakeFiles/figures.dir/Figures.cpp.o -o figures  -lm 

@@ -1,0 +1,4 @@
+/home/hoodrich/oop/laba_5/build/CMakeFiles/run_memory_resources.dir
+/home/hoodrich/oop/laba_5/build/CMakeFiles/tests.dir
+/home/hoodrich/oop/laba_5/build/CMakeFiles/edit_cache.dir
+/home/hoodrich/oop/laba_5/build/CMakeFiles/rebuild_cache.dir
